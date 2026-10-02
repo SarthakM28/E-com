@@ -207,3 +207,17 @@ Perform end-to-end verification, add loading/empty states, test edge cases, and 
 - [ ] Zero payment gateway, review, or multi-vendor bloat (strictly focused scope).
 - [ ] Fully responsive UI across desktop, tablet, and mobile.
 - [ ] Robust server-side validation and stock integrity guarantees.
+
+---
+
+## 👥 Team Task Assignment Matrix
+
+| Assignee | GitHub Profile | Issue | Module / Primary Responsibility | Labels |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sarthak** | [@SarthakM28](https://github.com/SarthakM28) | [#3](https://github.com/SarthakM28/E-com/issues/3) | Server Architecture, Authentication & JWT Middleware | `backend`, `auth` |
+| **Sarthak** | [@SarthakM28](https://github.com/SarthakM28) | [#4](https://github.com/SarthakM28/E-com/issues/4) | Category & Product REST APIs with Filtering & Search | `backend` |
+| **Anushka** | [@Anushka0431](https://github.com/Anushka0431) | [#5](https://github.com/SarthakM28/E-com/issues/5) | Client Setup, Design System & Public Storefront | `frontend`, `auth` |
+| **Anushka** | [@Anushka0431](https://github.com/Anushka0431) | [#6](https://github.com/SarthakM28/E-com/issues/6) | Shopping Cart, Cash on Delivery Checkout & My Orders | `frontend` |
+| **Sanved** | [@SanvedSahu](https://github.com/SanvedSahu) | [#7](https://github.com/SarthakM28/E-com/issues/7) | Order Processing Engine, Authoritative Pricing & Stock Management | `backend`, `admin` |
+| **Sanved** | [@SanvedSahu](https://github.com/SanvedSahu) | [#8](https://github.com/SarthakM28/E-com/issues/8) | Responsive Admin Dashboard (Categories, Products & Orders) | `frontend`, `admin` |
+
